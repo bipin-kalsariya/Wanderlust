@@ -1,0 +1,1 @@
+$(document).ready((function(){$(".destinations-carousel").owlCarousel({items:3,margin:20,loop:!0,nav:!0,navText:['<i class="fas fa-chevron-left"></i>','<i class="fas fa-chevron-right"></i>'],dots:!0,autoplay:!0,autoplayTimeout:5e3,autoplayHoverPause:!0,responsive:{0:{items:1},768:{items:2},992:{items:3}}})}));
